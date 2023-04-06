@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
 	do
 	{
 		system("cls");
-		printf("\n------- Antonius Hardiantono Karurukan -------");
+		printf("\n------- UGD TIPE A -------");
 		printf("\n1. Input Panjang Lebar");
 		printf("\n2. Show Rak Buku");
 		printf("\n3. Putar Rak Buku");
